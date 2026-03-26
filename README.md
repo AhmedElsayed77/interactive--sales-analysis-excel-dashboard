@@ -46,7 +46,8 @@ It provides key insights into sales performance, customer distribution, and prof
 
 ### 📷 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)
+## 📷 Dashboard Preview
+![Dashboard](./sales-analysis-dashboard.png)
 
 ---
 
